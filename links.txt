@@ -1,0 +1,7 @@
+about: https://drive.usercontent.google.com/uc?id=10Hu2Pzh282vjf4X30c_Kx_rU6G2W3nYH&export=download
+events : https://drive.usercontent.google.com/u/0/uc?id=1TIpz2d8H0pclb4MCQUwl4l6W2mwlFMmj&export=download
+footer : https://drive.usercontent.google.com/u/0/uc?id=1nI3l-2qDwbS2cTIjWOnsECrSFyw8kSZ0&export=download
+home : https://drive.usercontent.google.com/u/0/uc?id=1nQrILwCjNef1-UT1nLBYp0udJmTXPWng&export=download
+navbar : https://drive.usercontent.google.com/u/0/uc?id=1_DI8FGao_OwYcxBA4XvjJrOeNswRdMtX&export=download
+projects :  https://drive.usercontent.google.com/u/0/uc?id=1LiQ-nmX-QYbV-sNX-37ldr1hPzkQ2BHR&export=download
+team : https://drive.usercontent.google.com/u/0/uc?id=1eCBDT8nyNGRg29WF_wr0Q4HlsjfNXs2-&export=download
