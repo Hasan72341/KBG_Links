@@ -1,44 +1,41 @@
 {
   "title": "About KBG",
-  "mission": "To empower students at IIT Mandi with skills at the intersection of biology and AI.",
-  "history": "Founded as a student initiative to bring together biology and computation enthusiasts.",
-  "aboutLong": "KBG (Computational Biology Group) started as a small study circle and rapidly grew into a campus-wide community. Over the years we have hosted intensive hands-on workshops, mentored multi-disciplinary student projects, and collaborated with faculty and industry partners to expose students to cutting-edge research at the intersection of biology, data science and machine learning. Our events emphasize reproducible research, open-source tools, and responsible AI practices in life sciences.",
+  "mission": "To promote interdisciplinary learning and innovation at the intersection of biology, engineering, and technology at IIT Mandi.",
+  "history": "Kamand Bioengineering Group (KBG) was founded as an interdisciplinary student club to bridge the gap between life sciences and engineering. What began as a small initiative by a few enthusiasts has evolved into a vibrant community exploring everything from synthetic biology to bio-AI integration.",
+  "aboutLong": "Kamand Bioengineering Group (KBG) is an official student club of IIT Mandi that brings together curious minds from across disciplines to explore the rapidly growing world of bioengineering. The club serves as a platform for students to learn, experiment, and innovate through hands-on projects, technical workshops, speaker sessions, and hackathons. Our focus areas span biotechnology, artificial intelligence, computational biology, biomimetics, bio-robotics, and environmental innovation. KBG strives to create an ecosystem that nurtures creativity, fosters research collaborations, and encourages responsible technological advancement in the life sciences.",
   "features": [
     {
       "title": "Workshops",
-      "description": "Multi-day, hands-on workshops that cover topics such as molecular modeling, bioinformatics pipelines, ML for sequence analysis, and single-cell analysis. Sessions include lectures, guided labs and capstone mini-projects."
+      "description": "Hands-on technical sessions covering topics like bioinformatics, biosensing, biomimetic design, bio-AI integration, and computational modeling. These sessions are designed to equip students with practical, research-ready skills."
     },
     {
       "title": "Projects",
-      "description": "Student-led projects in collaboration with labs and startups. These projects span data visualization, algorithm development, model interpretability in biology, and building reproducible analysis pipelines."
+      "description": "KBG supports interdisciplinary student-led projects combining biology with AI, electronics, and mechanical systems. Projects range from biosensing devices to optimization algorithms inspired by nature."
     },
     {
       "title": "Speaker Sessions",
-      "description": "Invited talks by academic and industry experts who share recent advances, practical workflows, and career advice for computational biology."
+      "description": "Talks and interactions with researchers, innovators, and industry professionals who share insights into emerging trends and career paths in bioengineering and biotechnology."
     },
     {
-      "title": "Community Meetups",
-      "description": "Regular meetups for demos, lightning talks, collaboration matches and social events to grow the community and cross-pollinate ideas."
+      "title": "Community Events",
+      "description": "Interactive events, challenges, and hackathons like BioForge, AI+ series, and Cell Saga that encourage learning through creativity, teamwork, and real-world problem solving."
     }
   ],
   "whatWeDo": [
-    "Workshops",
-    "Projects",
-    "Speaker sessions",
-    "Community meetups",
-    "Mentorship",
-    "Open-source tool development",
-    "Collaboration with research labs",
-    "Annual hackathons"
+    "Organize interdisciplinary workshops and training sessions",
+    "Host events and hackathons in bioengineering and AI",
+    "Promote hands-on student projects and innovation",
+    "Invite expert talks and mentorship sessions",
+    "Encourage open-source development in bio-tech fields",
+    "Collaborate with research labs and technical societies",
+    "Foster a creative community of bioengineers and makers"
   ],
   "contact": {
-    "email": "hello@kbg.ai",
-    "phone": "+91 98765 43210",
-    "location": "A6 Innovation Lab, IIT Mandi, Himachal Pradesh",
+    "email": "kbg@students.iitmandi.ac.in",
+    "location": "A19, IIT Mandi, Himachal Pradesh",
     "socials": [
-      { "label": "Instagram", "handle": "@kbg.bio", "href": "https://instagram.com/kbg.bio" },
-      { "label": "LinkedIn", "handle": "@kbg-club", "href": "https://linkedin.com/company/kbg-club" },
-      { "label": "GitHub", "handle": "@kbg-lab", "href": "https://github.com/kbg-lab" }
+      { "label": "Instagram", "handle": "@kbg_iitmandi", "href": "https://www.instagram.com/kbg_iitmandi/" },
+      { "label": "GitHub", "handle": "@KBG-IIT-Mandi", "href": "https://github.com/KBG-IIT-Mandi" }
     ]
   }
 }
