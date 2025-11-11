@@ -1,98 +1,96 @@
 {
   "hero": {
-    "title": "KBG — Bio × AI Club",
-    "subtitle": "We prototype living systems with code, wet-lab assays, data stories, and immersive visuals.",
-    "description": "From CRISPR design studios to protein-folding sprints, we explore how machine intelligence can accelerate biology. Join us for weekly build nights, lightning talks, and collaborative research that blends molecules with models.",
+    "title": "KBG — Kamand Bioengineering Group",
+    "subtitle": "An interdisciplinary student club at IIT Mandi exploring the frontiers of biology, engineering, and technology.",
+    "description": "From biomimetic design challenges to AI-driven bio-models, KBG blends biology with computation, hardware, and creative engineering. Join us to build projects, attend workshops, and collaborate across disciplines that shape the future of bioinnovation.",
     "cta": { "label": "Join the Collective", "href": "/team" }
   },
   "highlights": [
     {
-      "title": "18 active builds",
-      "text": "Genomics, synthetic biology, bio-robotics, and narrative design teams iterating every week."
+      "title": "12 active projects",
+      "text": "From biosensing systems and neural cellular automata to bio-AI simulators and optimization toolkits — all developed by interdisciplinary teams."
     },
     {
-      "title": "42 workshops hosted",
-      "text": "CRISPR primers, RNA-Seq pipelines, microscopy ML, and shader art for scientific storytelling."
+      "title": "30+ events hosted",
+      "text": "Hands-on workshops, technical talks, design challenges, and hackathons bridging biology with computing and engineering."
     },
     {
-      "title": "6 partner labs",
-      "text": "Joint programs with biotech startups, hospital partners, and IIT Mandi research groups."
+      "title": "5 collaborating labs",
+      "text": "Active collaborations with IIT Mandi research labs and student technical clubs, driving open-source bioengineering innovation."
     }
   ],
   "sections": [
     {
-      "title": "Why Bio × AI — now",
-      "copy": "Sequencing costs are dropping, simulation fidelity is rising, and machine learning can parse complex biological signals faster than ever. KBG helps students cross the boundary between the wet lab and the GPU by pairing domain experts with creative technologists."
+      "title": "Why Bioengineering — now",
+      "copy": "Biotechnology, data science, and engineering are converging faster than ever before. KBG empowers students to work at this intersection — where circuits meet cells, and algorithms meet ecosystems. Through structured events and project-based learning, we make research accessible and innovation collaborative."
     },
     {
       "title": "Studio-based learning",
-      "copy": "Each eight-week studio cycles through problem framing, assays, data capture, modelling, and storytelling. You will ship artifacts every sprint: lab protocols, datasets, dashboards, VR scenes, or policy briefs.",
+      "copy": "Each project cycle combines design thinking, experimentation, data analysis, and presentation. You’ll move from ideation to prototype through hands-on learning and cross-domain collaboration.",
       "bullets": [
-        "Bench-to-browser pipelines with reproducible notebooks",
-        "Shader driven explainers for molecular processes",
-        "Ethics critiques and community feedback sessions"
+        "Bio-inspired engineering and design challenges",
+        "AI-assisted modeling and visualization for biological systems",
+        "Collaborative build sessions and mentorship from peers"
       ]
     },
     {
       "title": "Shared infrastructure",
-      "copy": "Members access a shared equipment pool, cloud GPU credits, DNA synthesis support, and design systems for communicating results. You will never prototype alone."
+      "copy": "KBG members get access to shared lab tools, maker-space facilities, open-source resources, and collaboration opportunities across IIT Mandi’s technical clubs and labs."
     }
   ],
   "tracks": [
     {
-      "title": "Wet Lab ↔ Data Lab",
-      "summary": "Culture cells in the morning, run differential expression models at night.",
+      "title": "AI × Biology",
+      "summary": "Leverage data-driven models to interpret biological patterns and optimize life-inspired systems.",
       "focus": [
-        "CRISPR screen design and validation",
-        "RNA-Seq preprocessing and transformer models",
-        "Lab automation with low-cost hardware"
+        "Medical imaging and biosignal analysis",
+        "AI in healthcare and genomics",
+        "Neural Cellular Automata and generative bio-simulations"
       ]
     },
     {
-      "title": "Bio-Sensing & Robotics",
-      "summary": "Build field-ready biosensors and autonomous sampling platforms.",
+      "title": "Biomimetics & Robotics",
+      "summary": "Design mechanisms inspired by nature — from microfluidics to autonomous, swarm-inspired systems.",
       "focus": [
-        "Environmental biosignal acquisition",
-        "Edge AI deployments on ROS stacks",
-        "Actuated microfluidics for rapid testing"
+        "Biomimetic motion and optimization algorithms",
+        "Swarm robotics and nature-inspired computation",
+        "Hardware-driven experiments with Arduino and Raspberry Pi"
       ]
     },
     {
-      "title": "Narrative & Visualization",
-      "summary": "Translate complex biology into intuitive spatial stories and interfaces.",
+      "title": "Environmental & Synthetic Systems",
+      "summary": "Explore sustainability through synthetic biology, environmental modeling, and engineered ecosystems.",
       "focus": [
-        "Three.js shader storytelling for molecules",
-        "Scientific illustration with generative tools",
-        "Interactive explainers for policy and outreach"
+        "Ecosystem modeling and terrarium projects",
+        "Biosensors for environmental data collection",
+        "Synthetic biology-inspired engineering challenges"
       ]
     }
   ],
   "stories": [
     {
-      "quote": "We prototyped a salivary biosensor in four weeks because the data team built the calibration models in parallel with wet-lab validation.",
-      "author": "Ananya Sharma",
-      "role": "Genomics Lead"
+      "quote": "Designing a self-organizing growth model taught me how biology and computation can create art that literally evolves.",
+      "author": "Tanya Sharma",
+      "role": "AI × Bio Track"
     },
     {
-      "quote": "Animating protein interactions with shaders helped us explain our findings to clinicians without a single slide deck.",
-      "author": "Madhav Negi",
-      "role": "Visualization Studio"
+      "quote": "We simulated swarm behavior in HIVE — watching virtual agents move like living colonies was surreal.",
+      "author": "Rohit Verma",
+      "role": "Biomimetics & Robotics"
     },
     {
-      "quote": "KBG is where I learned to pair lab notebooks with reproducible code — our audits are now faster and our science more transparent.",
-      "author": "Priya Kapoor",
-      "role": "Wet Lab Fellow"
+      "quote": "KBG made me realize how biology can be engineered — not just studied. Every build feels like a discovery.",
+      "author": "Aisha Khan",
+      "role": "Environmental Systems Track"
     }
   ],
   "contact": {
-    "headline": "Let’s build something bio × AI",
-    "description": "Ping us with project ideas, collaboration requests, or to host a workshop. We’re always looking for new voices, datasets, and lab challenges to remix.",
-    "email": "hello@kbg.ai",
-    "phone": "+91 98765 43210",
+    "headline": "Let’s build something bioengineering × AI",
+    "description": "Reach out to collaborate, propose a project, or host a session with us. We welcome ideas that combine biology with technology and creativity.",
+    "email": "kbg@students.iitmandi.ac.in",
     "socials": [
-      { "label": "Instagram", "href": "https://instagram.com/kbg.bio" },
-      { "label": "LinkedIn", "href": "https://linkedin.com/company/kbg-club" },
-      { "label": "GitHub", "href": "https://github.com/kbg-lab" }
+      { "label": "Instagram", "href": "https://www.instagram.com/kbg_iitmandi/" },
+      { "label": "GitHub", "href": "https://github.com/KBG-IIT-Mandi" }
     ]
   }
 }
