@@ -2,48 +2,68 @@
   "title": "Projects",
   "projects": [
     {
+      "name": "Self-Organizing Growth System",
+      "summary": "A digital growth simulation inspired by Neural Cellular Automata, where forms evolve from a single pixel into complex patterns — including the KBG logo — exploring how simple rules can produce lifelike behavior.",
+      "tech": ["Python", "NumPy", "Matplotlib", "Neural Cellular Automata"]
+    },
+    {
+      "name": "OptiHive: A Biomimetic Optimization Toolkit",
+      "summary": "A Python toolkit inspired by swarm intelligence and natural heuristics, implementing algorithms like particle swarm, ant colony, and firefly optimization for education and research.",
+      "tech": ["Python", "NumPy", "Matplotlib"]
+    },
+    {
+      "name": "BioSphere",
+      "summary": "A hands-on ecological project where students build and maintain terrariums to explore self-sustaining ecosystems, resource cycles, and environmental balance.",
+      "tech": ["Arduino", "Sensors", "Data Logging"]
+    },
+    {
+      "name": "Hive Simulator",
+      "summary": "An interactive, grid-based environment for experimenting with swarm dynamics and bio-inspired entity behavior, allowing users to design custom maps and agents.",
+      "tech": ["Python", "Pygame", "NumPy"]
+    },
+    {
       "name": "GenomeViz",
-      "summary": "Interactive visualization for genomic regions and variant mapping.",
+      "summary": "Interactive visualization for genomic regions and variant mapping, enabling exploration of gene structures and mutations in an intuitive interface.",
       "tech": ["React", "D3.js", "Python"]
     },
     {
       "name": "CellClass",
-      "summary": "ML model to classify cell types from gene expression data.",
+      "summary": "A machine learning model that classifies cell types based on gene expression data, helping in understanding cell differentiation and disease states.",
       "tech": ["PyTorch", "scikit-learn"]
     },
     {
       "name": "BioSense",
-      "summary": "Portable biosensor that integrates with an AI model to detect glucose levels in saliva samples.",
+      "summary": "A portable biosensor integrating AI models for non-invasive glucose detection using saliva samples, designed for affordable health monitoring.",
       "tech": ["Arduino", "TensorFlow Lite", "C++"]
     },
     {
       "name": "ProteinPredict",
-      "summary": "Deep learning model for predicting protein structures from amino acid sequences.",
+      "summary": "Deep learning model for predicting 3D protein structures from amino acid sequences, inspired by AlphaFold’s architecture and techniques.",
       "tech": ["Python", "PyTorch", "AlphaFold API"]
     },
     {
       "name": "EcoBot",
-      "summary": "Autonomous rover for environmental monitoring and bio-sample collection using onboard sensors.",
+      "summary": "An autonomous rover for environmental monitoring and bio-sample collection using camera-based navigation and environmental sensors.",
       "tech": ["Raspberry Pi", "OpenCV", "ROS"]
     },
     {
       "name": "NeuroLens",
-      "summary": "EEG-based headset that detects attention levels and visualizes brain activity.",
+      "summary": "An EEG-based headset that measures attention levels and visualizes brain activity in real-time through Bluetooth-connected software.",
       "tech": ["ESP32", "Python", "Matplotlib", "BLE"]
     },
     {
       "name": "PathoAI",
-      "summary": "AI system to detect pathogens in microscopy images using convolutional neural networks.",
+      "summary": "An AI system that identifies pathogens in microscopy images using convolutional neural networks, aiding rapid diagnosis and microbiology research.",
       "tech": ["FastAPI", "TensorFlow", "OpenCV"]
     },
     {
       "name": "MedChat",
-      "summary": "Conversational assistant trained on biomedical datasets for answering medical questions.",
+      "summary": "Conversational assistant trained on biomedical datasets, capable of answering complex medical and research-related queries using large language models.",
       "tech": ["LangChain", "Transformers", "React"]
     },
     {
       "name": "BioLogger",
-      "summary": "Hardware-Software system that collects real-time physiological signals for analysis and visualization.",
+      "summary": "An IoT-based system that collects and visualizes physiological signals in real-time, bridging hardware sensing and data analytics.",
       "tech": ["Arduino", "Node.js", "React", "MQTT"]
     }
   ]
