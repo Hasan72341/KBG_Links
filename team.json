@@ -32,6 +32,16 @@
         "instagram": "https://www.instagram.com/_.its.aditya/"
       }
     },
+        {
+      "name": "Md Hasan Raza",
+      "role": "Core Team Member",
+      "bio": "I am into bio + coding",
+      "image": "https://raw.githubusercontent.com/Hasan72341/KBG_Links/main/Teams/md-hasan-raza.jpg",
+      "socials": {
+        "linkedin": "https://www.linkedin.com/in/md-hasan-raza-8817372a7/",
+        "github": "https://github.com/Hasan72341"
+      }
+    },
     {
       "name": "Anish Singh Chaudhary",
       "role": "Core Team Member",
@@ -50,7 +60,6 @@
         "github": "https://github.com/Varsha-Garikapati"
       }
     },
-
     {
       "name": "Dharmesh Sahu",
       "role": "Core Team Member",
@@ -61,17 +70,6 @@
         "github": "https://github.com/dhakkann",
         "instagram": "https://instagram.com/dharme.sh"
       }
-    },
-    {
-      "name": "Md Hasan Raza",
-      "role": "Core Team Member",
-      "bio": "I am into bio + coding",
-      "image": "https://raw.githubusercontent.com/Hasan72341/KBG_Links/main/Teams/md-hasan-raza.jpg",
-      "socials": {
-        "linkedin": "https://www.linkedin.com/in/md-hasan-raza-8817372a7/",
-        "github": "https://github.com/Hasan72341"
-      }
     }
   ]
 }
-
