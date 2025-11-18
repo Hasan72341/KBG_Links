@@ -1,47 +1,47 @@
 {
   "hero": {
-    "title": "KBG — Kamand Bioengineering Group",
+    "title": "KBG - Kamand Bioengineering Group",
     "subtitle": "An interdisciplinary student club at IIT Mandi exploring the frontiers of biology, engineering, and technology.",
-    "description": "From biomimetic design challenges to AI-driven bio-models, KBG blends biology with computation, hardware, and creative engineering. Join us to build projects, attend workshops, and collaborate across disciplines that shape the future of bioinnovation.",
-    "cta": { "label": "Join the Collective", "href": "/team" }
+    "description": "From synthetic biodesigns to AI-driven bio-models, we blend biology with computation, hardware, and creative engineering. Join us to build projects, attend workshops, and apply various engineering concepts with a biological twist.",
+    "cta": { "label": "Meet the Team", "href": "/team" }
   },
   "highlights": [
     {
-      "title": "12 active projects",
-      "text": "From biosensing systems and neural cellular automata to bio-AI simulators and optimization toolkits — all developed by interdisciplinary teams."
+      "title": "Active projects",
+      "text": "From biosensing systems and cellular automata to bio-AI models, all developed by interdisciplinary teams."
     },
     {
-      "title": "30+ events hosted",
+      "title": "Events hosted",
       "text": "Hands-on workshops, technical talks, design challenges, and hackathons bridging biology with computing and engineering."
     },
     {
-      "title": "5 collaborating labs",
-      "text": "Active collaborations with IIT Mandi research labs and student technical clubs, driving open-source bioengineering innovation."
+      "title": "Lab Access",
+      "text": "Access to IIT Mandi research labs for real experimentation"
     }
   ],
   "sections": [
     {
-      "title": "Why Bioengineering — now",
-      "copy": "Biotechnology, data science, and engineering are converging faster than ever before. KBG empowers students to work at this intersection — where circuits meet cells, and algorithms meet ecosystems. Through structured events and project-based learning, we make research accessible and innovation collaborative."
+      "title": "Why KBG",
+      "copy": "Biotechnology, data science, and engineering are converging faster than ever before. KBG empowers students to work at this intersection — where circuits meet cells, and algorithms meet ecosystems. Through events and projects, we aim to have fun while exploring new topics."
     },
     {
-      "title": "Studio-based learning",
-      "copy": "Each project cycle combines design thinking, experimentation, data analysis, and presentation. You’ll move from ideation to prototype through hands-on learning and cross-domain collaboration.",
+      "title": "What we do",
+      "copy": "We do projects that combine biology with several engineering disciplines. We host workshops, talks, and hackathons to explore emerging topics at this intersection.",
       "bullets": [
-        "Bio-inspired engineering and design challenges",
-        "AI-assisted modeling and visualization for biological systems",
-        "Collaborative build sessions and mentorship from peers"
+        "Synthetic biology",
+        "AI x Biology",
+        "and many more"
       ]
     },
     {
-      "title": "Shared infrastructure",
-      "copy": "KBG members get access to shared lab tools, maker-space facilities, open-source resources, and collaboration opportunities across IIT Mandi’s technical clubs and labs."
+      "title": "What we have done",
+      "copy": "Since our inception in 2020, KBG has successfully organized multiple workshops, talks, and hackathons. Our members have even represented IIT Mandi at iGEM. Following that legacy, we continue to spread knowledge about this field through our events and projects."
     }
   ],
   "tracks": [
     {
       "title": "AI × Biology",
-      "summary": "Leverage data-driven models to interpret biological patterns and optimize life-inspired systems.",
+      "summary": "Leverage data-driven models to interpret biological patterns and simulate life-inspired systems.",
       "focus": [
         "Medical imaging and biosignal analysis",
         "AI in healthcare and genomics",
@@ -49,44 +49,44 @@
       ]
     },
     {
-      "title": "Biomimetics & Robotics",
-      "summary": "Design mechanisms inspired by nature — from microfluidics to autonomous, swarm-inspired systems.",
+      "title": "Synthetic Biology & Biodesign",
+      "summary": "Design and construct new biological parts, devices, and systems, or to redesign existing ones for useful purposes",
       "focus": [
-        "Biomimetic motion and optimization algorithms",
-        "Swarm robotics and nature-inspired computation",
-        "Hardware-driven experiments with Arduino and Raspberry Pi"
+        "Drug development software",
+        "Genetic circuit design and simulation",
+        "Participation in iGEM and other biodesign competitions"
       ]
     },
     {
-      "title": "Environmental & Synthetic Systems",
-      "summary": "Explore sustainability through synthetic biology, environmental modeling, and engineered ecosystems.",
+      "title": "Bio Instrumentation",
+      "summary": "Build hardware systems that interface with biological entities for monitoring, analysis, or intervention.",
       "focus": [
-        "Ecosystem modeling and terrarium projects",
-        "Biosensors for environmental data collection",
-        "Synthetic biology-inspired engineering challenges"
+        "Build our own EEG/ECG devices",
+        "Analysis of biosignals using embedded systems",
+        "Making exciting biosensors"
       ]
     }
   ],
   "stories": [
     {
-      "quote": "Designing a self-organizing growth model taught me how biology and computation can create art that literally evolves.",
-      "author": "Devansh Garg",
-      "role": "AI × Bio Track"
+      "quote": "CRISPR gene editing now corrects sickle cell disease in living patients. We're literally rewriting genetic code to cure diseases once thought permanent.",
+      "author": "",
+      "role": ""
     },
     {
-      "quote": "We simulated swarm behavior in HIVE — watching virtual agents move like living colonies was surreal.",
-      "author": "Bhumika Gupta",
-      "role": "Coordinator"
+      "quote": "Lab-grown neurons learned to play Pong in 5 minutes. Biological cells outperformed AI at learning—brain-computer hybrids are here.",
+      "author": "",
+      "role": ""
     },
     {
-      "quote": "KBG made me realize how biology can be engineered — not just studied. Every build feels like a discovery.",
-      "author": "Mohit Attri",
-      "role": "Environmental Systems Track"
+      "quote": "Bacteria navigate using Earth's magnetic field with built-in compasses. Engineers are now embedding similar bio-magnetic sensors in medical nanorobots.",
+      "author": "",
+      "role": ""
     }
   ],
   "contact": {
-    "headline": "Let’s build something bioengineering × AI",
-    "description": "Reach out to collaborate, propose a project, or host a session with us. We welcome ideas that combine biology with technology and creativity.",
+    "headline": "Let’s stimulate some neurons together!",
+    "description": "Reach out to propose a project, or host a session or event with us.",
     "email": "kbg@students.iitmandi.ac.in",
     "socials": [
       { "label": "Instagram", "href": "https://www.instagram.com/kbg_iitmandi/" },

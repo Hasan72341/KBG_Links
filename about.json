@@ -1,6 +1,6 @@
 {
   "title": "About KBG",
-  "mission": "To promote interdisciplinary learning and innovation at the intersection of biology, engineering, and technology at IIT Mandi.",
+  "mission": "To promote interdisciplinary learning and innovation at the intersection of biology and engineering at IIT Mandi.",
   "history": "Kamand Bioengineering Group (KBG) was founded as an interdisciplinary student club to bridge the gap between life sciences and engineering. What began as a small initiative by a few enthusiasts has evolved into a vibrant community exploring everything from synthetic biology to bio-AI integration.",
   "aboutLong": "Kamand Bioengineering Group (KBG) is an official student club of IIT Mandi that brings together curious minds from across disciplines to explore the rapidly growing world of bioengineering. The club serves as a platform for students to learn, experiment, and innovate through hands-on projects, technical workshops, speaker sessions, and hackathons. Our focus areas span biotechnology, artificial intelligence, computational biology, biomimetics, bio-robotics, and environmental innovation. KBG strives to create an ecosystem that nurtures creativity, fosters research collaborations, and encourages responsible technological advancement in the life sciences.",
   "features": [
@@ -27,12 +27,11 @@
     "Promote hands-on student projects and innovation",
     "Invite expert talks and mentorship sessions",
     "Encourage open-source development in bio-tech fields",
-    "Collaborate with research labs and technical societies",
-    "Foster a creative community of bioengineers and makers"
+    "Foster a creative community of bioengineers and enthusiasts"
   ],
   "contact": {
     "email": "kbg@students.iitmandi.ac.in",
-    "location": "A19, IIT Mandi, Himachal Pradesh",
+    "location": "KBG room, A19, IIT Mandi, Himachal Pradesh",
     "socials": [
       { "label": "Instagram", "handle": "@kbg_iitmandi", "href": "https://www.instagram.com/kbg_iitmandi/" },
       { "label": "GitHub", "handle": "@KBG-IIT-Mandi", "href": "https://github.com/KBG-IIT-Mandi" }

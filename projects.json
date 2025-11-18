@@ -2,6 +2,21 @@
   "title": "Projects",
   "projects": [
     {
+      "name": "DynaSync",
+      "summary": "Building our own EEG, ECG and other biosensors devices and analyzing biosignals using embedded systems.",
+      "tech": ["Arduino", "ESP32", "Python" ]
+    },
+    {
+      "name": "Terrarium",
+      "summary": "A self-sustaining ecosystem in a glass container that demonstrates ecological principles and natural cycles.",
+      "tech": ["Small Aquatic Animals and Plants"]
+    },
+    {
+      "name": "BioSense",
+      "summary": "Classifying the EEG signals using machine learning algorithms to detect which pattern corresponds to which word.",
+      "tech": ["Python", "Scikit-learn", "MNE-Python"]
+    },
+    {
       "name": "Self-Organizing Growth System",
       "summary": "A digital life simulation inspired by Neural Cellular Automata, capable of self-organizing from a single pixel into complex patterns and club logos — blending computation, art, and biology.",
       "tech": ["Python", "TensorFlow", "NumPy", "Pillow"]
@@ -20,51 +35,6 @@
       "name": "Hive Simulator",
       "summary": "A dynamic grid-based simulator where users create and explore virtual worlds filled with customizable, biologically inspired entities. Designed to study swarm and agent-based behaviors.",
       "tech": ["Unity", "C#", "Python"]
-    },
-    {
-      "name": "GenomeViz",
-      "summary": "Interactive visualization for genomic regions and variant mapping.",
-      "tech": ["React", "D3.js", "Python"]
-    },
-    {
-      "name": "CellClass",
-      "summary": "ML model to classify cell types from gene expression data.",
-      "tech": ["PyTorch", "scikit-learn"]
-    },
-    {
-      "name": "BioSense",
-      "summary": "Portable biosensor that integrates with an AI model to detect glucose levels in saliva samples.",
-      "tech": ["Arduino", "TensorFlow Lite", "C++"]
-    },
-    {
-      "name": "ProteinPredict",
-      "summary": "Deep learning model for predicting protein structures from amino acid sequences.",
-      "tech": ["Python", "PyTorch", "AlphaFold API"]
-    },
-    {
-      "name": "EcoBot",
-      "summary": "Autonomous rover for environmental monitoring and bio-sample collection using onboard sensors.",
-      "tech": ["Raspberry Pi", "OpenCV", "ROS"]
-    },
-    {
-      "name": "NeuroLens",
-      "summary": "EEG-based headset that detects attention levels and visualizes brain activity.",
-      "tech": ["ESP32", "Python", "Matplotlib", "BLE"]
-    },
-    {
-      "name": "PathoAI",
-      "summary": "AI system to detect pathogens in microscopy images using convolutional neural networks.",
-      "tech": ["FastAPI", "TensorFlow", "OpenCV"]
-    },
-    {
-      "name": "MedChat",
-      "summary": "Conversational assistant trained on biomedical datasets for answering medical questions.",
-      "tech": ["LangChain", "Transformers", "React"]
-    },
-    {
-      "name": "BioLogger",
-      "summary": "Hardware-software system that collects real-time physiological signals for analysis and visualization.",
-      "tech": ["Arduino", "Node.js", "React", "MQTT"]
     }
   ]
 }

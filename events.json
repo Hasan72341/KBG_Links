@@ -2,96 +2,114 @@
   "title": "Events",
   "upcoming": [
     {
-      "title": "AI in Healthcare",
-      "date": "2025-11-25",
-      "description": "The first event under the AI+ series focusing on problem statements in medical AI. Participants work on detecting pneumonia from chest X-rays using deep learning techniques.",
-  "image": "https://raw.githubusercontent.com/Hasan72341/KBG_Links/main/Events/AI%20in%20Healthcare.jpg"
+      "title": "HackBio",
+      "date": "2026",
+      "description": "An hackathon focused on solving real-world biological problems using computational and engineering approaches. Teams will develop innovative solutions over a 12 hour period.",
+      "image": "https://raw.githubusercontent.com/Hasan72341/KBG_Links/main/Events/coming-soon.jpg"
     },
     {
-      "title": "Bioforge: The Biomimetics Challenge (Algodoo)",
-      "date": "2025-12-10",
-      "description": "KBG and Yantrik Club present BIOFORGE, a biomimetic design challenge using Algodoo. Teams design motile mechanisms inspired by biology to traverse obstacle courses under simulated constraints.",
-  "image": "https://raw.githubusercontent.com/Hasan72341/KBG_Links/main/Events/Bio%20Forge.jpg"
-    },
-    {
-      "title": "Cell Saga 2.0",
-      "date": "2025-12-20",
+      "title": "Cell Saga 4.0",
+      "date": "2026",
       "description": "A thrilling scavenger hunt that brings together logic, biology, and teamwork. Race against time to uncover clues and reach the final frontier in this fun-filled event.",
-  "image": "https://raw.githubusercontent.com/Hasan72341/KBG_Links/main/Events/Cell%20Saga%202.0.jpg"
+      "image": "https://raw.githubusercontent.com/Hasan72341/KBG_Links/main/Events/coming-soon.jpg"
     },
     {
-      "title": "Epidemic",
-      "date": "2026-01-05",
-      "description": "Step into the shoes of an epidemiologist. Model the spread of a virtual outbreak, analyze infection patterns, and develop intervention strategies to flatten the curve.",
-  "image": "https://raw.githubusercontent.com/Hasan72341/KBG_Links/main/Events/Epidemic.jpg"
-    },
-    {
-      "title": "HIVE",
-      "date": "2026-01-25",
-      "description": "Inspired by swarm intelligence, HIVE challenges participants to explore collective algorithms and develop decentralized problem-solving models inspired by nature.",
-  "image": "https://raw.githubusercontent.com/Hasan72341/KBG_Links/main/Events/Hive.jpg"
-    },
-    {
-      "title": "Pitch Terra",
-      "date": "2026-02-15",
-      "description": "Pitch Terra invites budding entrepreneurs to propose startups solving environmental problems through biotechnology and sustainability-driven innovation.",
-  "image": "https://raw.githubusercontent.com/Hasan72341/KBG_Links/main/Events/Pitch%20Terra.jpg"
-    },
-    {
-      "title": "Talk: Angad Singh",
-      "date": "2026-03-01",
-      "description": "A student interaction session on how nature forms complex biological patterns via signalling pathways and clocks. Led by Mr. Chandel Angad Singh, exploring careers and research in biocomplexity.",
-  "image": "https://raw.githubusercontent.com/Hasan72341/KBG_Links/main/Events/Talk%20Angad.jpg"
+      "title": "AI × Bio 2.0",
+      "date": "2025-11-20",
+      "description": "Next session of AI x Bio series, exploring the convergence of artificial intelligence and biology with advanced deep learning concepts and hands-on medical dataset prediction exercises.",
+      "image": "https://raw.githubusercontent.com/Hasan72341/KBG_Links/main/Events/AI%20x%20BIO.jpg"
     }
   ],
   "past": [
     {
-      "title": "AI+PS2: Neuroheadstate – EyeState Classification",
-      "date": "2025-09-25",
-      "description": "Participants decoded EEG signals to classify human eye states, exploring neural signal processing and machine learning in neuroscience.",
-  "image": "https://raw.githubusercontent.com/Hasan72341/KBG_Links/main/Events/AI%20in%20Biology.jpg"
+      "title": "AI × Bio",
+      "date": "2025-11-06",
+      "description": "An introductory session exploring the convergence of artificial intelligence and biology through interactive discussions and medical dataset prediction exercises.",
+      "image": "https://raw.githubusercontent.com/Hasan72341/KBG_Links/main/Events/AI%20x%20BIO.jpg"
     },
     {
-      "title": "AI × Bio",
-      "date": "2025-08-10",
-      "description": "An introductory session exploring the convergence of artificial intelligence and biology through interactive discussions and medical dataset prediction exercises.",
-  "image": "https://raw.githubusercontent.com/Hasan72341/KBG_Links/main/Events/AI%20x%20BIO.jpg"
+      "title": "Epidemic",
+      "date": "2025-03-05",
+      "description": "Step into the shoes of an epidemiologist. Model the spread of a virtual outbreak, analyze infection patterns, and develop intervention strategies to flatten the curve.",
+      "image": "https://raw.githubusercontent.com/Hasan72341/KBG_Links/main/Events/Epidemic.jpg"
+    },
+    {
+      "title": "Cell Saga 2.0",
+      "date": "2024-09-20",
+      "description": "A thrilling scavenger hunt that brings together logic, biology, and teamwork. Race against time to uncover clues and reach the final frontier in this fun-filled event.",
+      "image": "https://raw.githubusercontent.com/Hasan72341/KBG_Links/main/Events/Cell%20Saga%202.0.jpg"
+    },
+    {
+      "title": "Bioforge: The Biomimetics Challenge (Algodoo)",
+      "date": "2023-05-30",
+      "description": "KBG and Yantrik Club present BIOFORGE, a biomimetic design challenge using Algodoo. Teams design motile mechanisms inspired by biology to traverse obstacle courses under simulated constraints.",
+      "image": "https://raw.githubusercontent.com/Hasan72341/KBG_Links/main/Events/Bio%20Forge.jpg"
     },
     {
       "title": "Bio-Forge: The Biomimetics Challenge",
-      "date": "2025-06-12",
+      "date": "2023-05-03",
       "description": "A competition combining engineering and biology where participants used Algodoo to simulate bio-inspired motion mechanisms.",
-  "image": "https://raw.githubusercontent.com/Hasan72341/KBG_Links/main/Events/Bio%20Forge%202.jpg"
+      "image": "https://raw.githubusercontent.com/Hasan72341/KBG_Links/main/Events/Bio%20Forge%202.jpg"
     },
     {
-      "title": "Cell Saga",
-      "date": "2025-04-05",
-      "description": "A fast-paced scavenger hunt combining biology and logic. The first edition that set the stage for the Cell Saga series.",
-  "image": "https://raw.githubusercontent.com/Hasan72341/KBG_Links/main/Events/Cell%20Saga.jpg"
+      "title": "Talk: Angad Singh",
+      "date": "2023-03-01",
+      "description": "A student interaction session on how nature forms complex biological patterns via signalling pathways and clocks. Led by Mr. Chandel Angad Singh, exploring careers and research in biocomplexity.",
+      "image": "https://raw.githubusercontent.com/Hasan72341/KBG_Links/main/Events/Talk%20Angad.jpg"
+    },
+    {
+      "title": "HIVE",
+      "date": "2023-02-25",
+      "description": "Inspired by swarm intelligence, HIVE challenges participants to explore collective algorithms and develop decentralized problem-solving models inspired by nature.",
+      "image": "https://raw.githubusercontent.com/Hasan72341/KBG_Links/main/Events/Hive.jpg"
+    },
+    {
+      "title": "AI+PS2: Neuroheadstate – EyeState Classification",
+      "date": "2023-01-26",
+      "description": "Participants decoded EEG signals to classify human eye states, exploring neural signal processing and machine learning in neuroscience.",
+      "image": "https://raw.githubusercontent.com/Hasan72341/KBG_Links/main/Events/AI%20in%20Biology.jpg"
     },
     {
       "title": "Genetics 101",
-      "date": "2025-02-15",
+      "date": "2023-01-04",
       "description": "An introductory talk on genetic engineering, gene therapy, and ethical aspects of modern genetics.",
-  "image": "https://raw.githubusercontent.com/Hasan72341/KBG_Links/main/Events/Genetics.jpg"
+      "image": "https://raw.githubusercontent.com/Hasan72341/KBG_Links/main/Events/Genetics.jpg"
+    },
+        {
+      "title": "Cell Saga",
+      "date": "2022-09-05",
+      "description": "A fast-paced scavenger hunt combining biology and logic. The first edition that set the stage for the Cell Saga series.",
+      "image": "https://raw.githubusercontent.com/Hasan72341/KBG_Links/main/Events/Cell%20Saga.jpg"
+    },
+    {
+      "title": "AI in Healthcare",
+      "date": "2022-11-25",
+      "description": "The first event under the AI+ series focusing on problem statements in medical AI. Participants work on detecting pneumonia from chest X-rays using deep learning techniques.",
+      "image": "https://raw.githubusercontent.com/Hasan72341/KBG_Links/main/Events/AI%20in%20Healthcare.jpg"
     },
     {
       "title": "Origin of Life",
-      "date": "2024-12-10",
+      "date": "2022-11-22",
       "description": "A session exploring scientific theories about life’s beginnings, from the Big Bang to RNA world hypotheses.",
-  "image": "https://raw.githubusercontent.com/Hasan72341/KBG_Links/main/Events/Origin%20of%20Life.jpg"
+      "image": "https://raw.githubusercontent.com/Hasan72341/KBG_Links/main/Events/Origin%20of%20Life.jpg"
+    },
+    {
+      "title": "Pitch Terra",
+      "date": "2022-05-12",
+      "description": "Pitch Terra invites budding entrepreneurs to propose startups solving environmental problems through biotechnology and sustainability-driven innovation.",
+      "image": "https://raw.githubusercontent.com/Hasan72341/KBG_Links/main/Events/Pitch%20Terra.jpg"
     },
     {
       "title": "Talk: iGEM",
-      "date": "2024-10-20",
+      "date": "2022-04-21",
       "description": "A seminar introducing the international iGEM competition and the world of synthetic biology by Benjamin Schwetz.",
-  "image": "https://raw.githubusercontent.com/Hasan72341/KBG_Links/main/Events/Talk%20iGEM.jpg"
+      "image": "https://raw.githubusercontent.com/Hasan72341/KBG_Links/main/Events/Talk%20iGEM.jpg"
     },
     {
       "title": "SynBio 101",
-      "date": "2024-08-05",
+      "date": "2022-02-28",
       "description": "A hands-on iGEM-style competition where teams researched and pitched synthetic biology projects to a judging panel.",
-  "image": "https://raw.githubusercontent.com/Hasan72341/KBG_Links/main/Events/SynBio.jpg"
+      "image": "https://raw.githubusercontent.com/Hasan72341/KBG_Links/main/Events/SynBio.jpg"
     }
   ]
 }
