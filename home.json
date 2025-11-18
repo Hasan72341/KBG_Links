@@ -3,7 +3,7 @@
     "title": "KBG - Kamand Bioengineering Group",
     "subtitle": "An interdisciplinary student club at IIT Mandi exploring the frontiers of biology, engineering, and technology.",
     "description": "From synthetic biodesigns to AI-driven bio-models, we blend biology with computation, hardware, and creative engineering. Join us to build projects, attend workshops, and apply various engineering concepts with a biological twist.",
-    "cta": { "label": "Explore Our Tracks", "href": "#tracks" }
+    "cta": { "label": "Explore Our Tracks", "href": ".narrative-grid" }
   },
   "highlights": [
     {
