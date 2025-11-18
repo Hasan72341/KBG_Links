@@ -8,7 +8,7 @@
   },
   "highlights": [
     {
-      "title": "Active projects",
+      "title": "Our Projects",
       "text": "From biosensing systems and cellular automata to bio-AI models, all developed by interdisciplinary teams."
     },
     {
@@ -87,9 +87,10 @@
   ],
   "contact": {
     "headline": "Let’s stimulate some neurons together!",
-    "description": "Reach out to propose a project, or host a session or event with us.",
+    "description": "Reach out to propose a project, suggest a session or event to be conducted by us.",
     "email": "kbg@students.iitmandi.ac.in",
     "socials": [
+      { "label": "LinkedIn", "href": "https://www.linkedin.com/company/kbg-iit-mandi/" },
       { "label": "Instagram", "href": "https://www.instagram.com/kbg_iitmandi/" },
       { "label": "GitHub", "href": "https://github.com/KBG-IIT-Mandi" }
     ]

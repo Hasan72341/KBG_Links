@@ -2,19 +2,24 @@
   "title": "Projects",
   "projects": [
     {
-      "name": "DynaSync",
-      "summary": "Building our own EEG, ECG and other biosensors devices and analyzing biosignals using embedded systems.",
-      "tech": ["Arduino", "ESP32", "Python" ]
+      "name": "BioSphere",
+      "summary": "Terrarium-based project promoting ecological balance and sustainability. Encourages students to design self-sustaining ecosystems and study natural resource cycles hands-on.",
+      "tech": ["Arduino", "IoT Sensors", "Python"]
     },
     {
-      "name": "Terrarium",
-      "summary": "A self-sustaining ecosystem in a glass container that demonstrates ecological principles and natural cycles.",
-      "tech": ["Small Aquatic Animals and Plants"]
+      "name": "DynaSync",
+      "summary": "Classifying the EEG signals using machine learning algorithms to detect which pattern corresponds to which word.",
+      "tech": ["Python", "Scikit-learn", "MNE-Python"]
+    },
+    {
+      "name": "Gogec",
+      "summary": "Synthetic biology aimed project for participation in Gogec international competition.",
+      "tech": ["Computational Biology", "ML/DL"]
     },
     {
       "name": "BioSense",
-      "summary": "Classifying the EEG signals using machine learning algorithms to detect which pattern corresponds to which word.",
-      "tech": ["Python", "Scikit-learn", "MNE-Python"]
+      "summary": "Building our own EEG, ECG and other biosensors devices and analyzing biosignals using embedded systems.",
+      "tech": ["Arduino", "ESP32", "Python" ]
     },
     {
       "name": "Self-Organizing Growth System",
@@ -25,11 +30,6 @@
       "name": "OptiHive",
       "summary": "A biomimetic optimization toolkit inspired by swarm intelligence. Implements algorithms like particle swarm, ant colony, and bat optimization for solving complex search problems.",
       "tech": ["Python", "NumPy", "Matplotlib"]
-    },
-    {
-      "name": "BioSphere",
-      "summary": "Terrarium-based project promoting ecological balance and sustainability. Encourages students to design self-sustaining ecosystems and study natural resource cycles hands-on.",
-      "tech": ["Arduino", "IoT Sensors", "Python"]
     },
     {
       "name": "Hive Simulator",

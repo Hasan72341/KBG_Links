@@ -1,8 +1,8 @@
 {
   "title": "About KBG",
   "mission": "To promote interdisciplinary learning and innovation at the intersection of biology and engineering at IIT Mandi.",
-  "history": "Kamand Bioengineering Group (KBG) was founded as an interdisciplinary student club to bridge the gap between life sciences and engineering. What began as a small initiative by a few enthusiasts has evolved into a vibrant community exploring everything from synthetic biology to bio-AI integration.",
-  "aboutLong": "Kamand Bioengineering Group (KBG) is an official student club of IIT Mandi that brings together curious minds from across disciplines to explore the rapidly growing world of bioengineering. The club serves as a platform for students to learn, experiment, and innovate through hands-on projects, technical workshops, speaker sessions, and hackathons. Our focus areas span biotechnology, artificial intelligence, computational biology, biomimetics, bio-robotics, and environmental innovation. KBG strives to create an ecosystem that nurtures creativity, fosters research collaborations, and encourages responsible technological advancement in the life sciences.",
+  "history": "Found in 2022 by a small group of people dreaming to create a space for passion to explore and spread knowledge about 'What is Bioengineering?' Wanting to do something different from mainstream, they started KBG. Now, following their footsteps, KBG has grown bigger and better but with the same ambition and passion to explore life with the lens of technology.",
+  "aboutLong": "Kamand Bioengineering Group (KBG) is an student club of IIT Mandi that brings together curious minds from across disciplines to explore the rapidly growing world of bioengineering. The club serves as a platform for students to learn, experiment, and innovate through hands-on projects, technical workshops, speaker sessions, and hackathons. Our focus areas span biotechnology, artificial intelligence, computational biology, biomimetics, bio-robotics, and environmental innovation. KBG strives to create an ecosystem that nurtures creativity, fosters research collaborations, and encourages responsible technological advancement in the life sciences.",
   "features": [
     {
       "title": "Workshops",
@@ -26,15 +26,16 @@
     "Host events and hackathons in bioengineering and AI",
     "Promote hands-on student projects and innovation",
     "Invite expert talks and mentorship sessions",
-    "Encourage open-source development in bio-tech fields",
+    "Participation in international competitions in bio-tech fields",
     "Foster a creative community of bioengineers and enthusiasts"
   ],
   "contact": {
     "email": "kbg@students.iitmandi.ac.in",
     "location": "KBG room, A19, IIT Mandi, Himachal Pradesh",
     "socials": [
-      { "label": "Instagram", "handle": "@kbg_iitmandi", "href": "https://www.instagram.com/kbg_iitmandi/" },
-      { "label": "GitHub", "handle": "@KBG-IIT-Mandi", "href": "https://github.com/KBG-IIT-Mandi" }
+      {"label": "LinkedIn", "handle": "KBG IIT Mandi", "href": "https://www.linkedin.com/company/kbg-iit-mandi/" },
+      { "label": "Instagram", "handle": "kbg_iitmandi", "href": "https://www.instagram.com/kbg_iitmandi/" },
+      { "label": "GitHub", "handle": "KBG-IIT-Mandi", "href": "https://github.com/KBG-IIT-Mandi" }
     ]
   }
 }
